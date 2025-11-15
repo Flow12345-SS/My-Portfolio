@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+python-dotenv
+alembic      # optional for migrations (skip for SQLite quick start)
